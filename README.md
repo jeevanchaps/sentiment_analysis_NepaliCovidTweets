@@ -1,11 +1,11 @@
 # Sentiment Analysis of Nepali COVID-19 Tweets
 
 This repository contains experiments performed using different monolingual and multilingual Transformer models for the Nepali language to perform the sentiment analysis of the Nepali Tweets related to 
-COVID-19. The different monolingual models used are as follows which are all available in the HuggingFace.
-- amitness/roberta-base-ne
-- Sakonii/distilbert-base-nepali
-- Rajan/NepaliBERT
-- bert-base-multilingual-uncased
+COVID-19. The different monolingual and multilingual models used are as follows which are all available in the HuggingFace.
+- [amitness/roberta-base-ne](https://huggingface.co/amitness/roberta-base-ne)
+- [Sakonii/distilbert-base-nepali](https://huggingface.co/Sakonii/distilbert-base-nepali)
+- [Rajan/NepaliBERT](https://huggingface.co/Rajan/NepaliBERT)
+- [bert-base-multilingual-uncased](https://huggingface.co/bert-base-multilingual-uncased)
 
 
 ## DataSets

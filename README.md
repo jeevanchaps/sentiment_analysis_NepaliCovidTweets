@@ -11,3 +11,15 @@ COVID-19. The different monolingual models used are as follows which are all ava
 ## DataSets
 
 For this experiment, [NepCOV19Tweets](https://www.kaggle.com/datasets/mathew11111/nepcov19tweets) is used which contains Nepali tweets related to COVID-19.
+
+## Experiments and Results
+
+
+|Model |Pre. |Rec. |F1|
+| --- | --- | --- | --- |
+|NepaliBERT|0.00| 0.00| 0.00|
+|NepBERT|0.00| 0.00 |0.00|
+|DB-BERT|0.00 |0.00 |0.00|
+|BERT-bbmu|0.00 |0.00 |0.00| 
+
+The results will be updated soon.

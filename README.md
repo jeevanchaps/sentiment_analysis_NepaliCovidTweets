@@ -1,4 +1,4 @@
-# Sentiment Analysis of Nepali COVID Tweets
+# Sentiment Analysis of Nepali COVID-19 Tweets
 
 This repository contains experiments performed using different monolingual and multilingual Transformer models for the Nepali language to perform the sentiment analysis of the Nepali Tweets related to 
 COVID-19. The different monolingual models used are as follows which are all available in the HuggingFace.

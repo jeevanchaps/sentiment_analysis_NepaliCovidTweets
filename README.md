@@ -14,7 +14,7 @@ For this experiment, [NepCOV19Tweets](https://www.kaggle.com/datasets/mathew1111
 
 ## Experiments and Results
 
-We experimented with the following:
+We experimented with the following hyper parameters:
 - Optimizer: AdamW
 - Batch Size: 16
 - Learning rate: 0.0001

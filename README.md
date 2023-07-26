@@ -14,7 +14,7 @@ For this experiment, [NepCOV19Tweets](https://www.kaggle.com/datasets/mathew1111
 
 ## Experiments and Results
 
-We experimented with the following hyper parameters:
+We experimented with the following hyperparameters:
 - Optimizer: AdamW
 - Batch Size: 16
 - Learning rate: 0.0001
@@ -23,9 +23,8 @@ Model Comparsion:
 
 |Model |Pre. |Rec. |F1|
 | --- | --- | --- | --- |
-|NepaliBERT|0.00| 0.00| 0.00|
-|NepBERT|0.00| 0.00 |0.00|
-|DB-BERT|0.00 |0.00 |0.00|
-|BERT-bbmu|0.00 |0.00 |0.00| 
+|NepaliBERT|0.31| 0.45| 0.28|
+|NepBERT|0.70| 0.71 |0.70|
+|DB-BERT|0.73 |0.73 |0.73|
+|BERT-bbmu|0.20 |0.45 |0.28| 
 
-The results will be updated soon.

@@ -1,7 +1,4 @@
----
-library_name: transformers
-tags: []
----
+
 
 # Model Card for Model ID
 
